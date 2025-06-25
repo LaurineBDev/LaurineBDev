@@ -1,21 +1,30 @@
-# 👋 Bonjour, je suis Laurine !
+👋 Bonjour, je suis Laurine !
+🌟 Bienvenue sur mon profil GitHub !
+Développeuse passionnée, curieuse et toujours prête à apprendre de nouvelles choses dans le monde du numérique.
 
-### 🌟 Bienvenue sur mon profil GitHub !
+🚀 À propos de moi :
+🔭 Parcours :
+J’ai suivi plusieurs formations dans le domaine du numérique :
 
-Je suis passionné  par le développement , toujours curieuse et prête à apprendre.
+🎓 Découverte des métiers du numérique chez AFP2i
 
----
+👩‍💻 Formation "SAS Hackeuse" chez Simplon
 
-### 🚀 À propos de moi :
-- 🔭 Formation : J'ai fais une formation a Afp2i découverte des métiers numérique, formation "SAS HACKEUSE" a Simplon, formation Developper intégrateur et actuellement une Dev-Front.
-- 🌱 J'apprends actuellement [Git, Scss, Css, Html] .
+🧩 Formation Développeur Intégrateur
 
+💻 Actuellement en formation de Développeur Front-End
 
----
+🌱 Ce que j'apprends actuellement :
+Je renforce mes compétences sur les technologies suivantes :
+Git, SCSS, CSS, HTML
 
-### 🛠️ Langages et outils :
+🛠️ Langages & Outils :
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+
 
 
 ---
