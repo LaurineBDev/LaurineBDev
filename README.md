@@ -3,6 +3,7 @@
 Développeuse passionnée, curieuse et toujours prête à apprendre de nouvelles choses dans le monde du numérique.
 
 🚀 À propos de moi :
+
 🔭 Parcours :
 J’ai suivi plusieurs formations dans le domaine du numérique :
 
