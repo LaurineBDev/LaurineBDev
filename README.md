@@ -24,7 +24,7 @@ Fan d’animaux 🐈‍⬛, de patinoire ⛸️ et du monde magique de Harry Pot
 React, JavaScript, DOM, POO
 Je renforce mes compétences en Git, SCSS, HTML, CSS
 
-# 🚧 En ce moment : création d’un projet React pour pouvoir faire un futur portfolio !
+# 🚧 En ce moment : création d’un projetpour pouvoir faire un futur portfolio !
 
 # 🛠️ Langages & Outils :
 
