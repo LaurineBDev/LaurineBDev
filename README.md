@@ -3,6 +3,7 @@
 🌟 Bienvenue sur mon profil GitHub !
 Développeuse passionnée, curieuse et toujours prête à apprendre.
 Je m’intéresse particulièrement au Front-End, à l’IA et à la Cybersécurité 🤖🔐
+![Portfolio](https://portfolio-wine-mu-68.vercel.app/index.html)
 
 # 🚀 À propos de moi :
 
@@ -24,7 +25,7 @@ Fan d’animaux 🐈‍⬛, de patinoire ⛸️ et du monde magique de Harry Pot
 React, JavaScript, DOM, POO
 Je renforce mes compétences en Git, SCSS, HTML, CSS
 
-# 🚧 En ce moment : création d’un projetpour pouvoir faire un futur portfolio !
+# 🚧 En ce moment : création d’un projet pour remplir le portfolio !
 
 # 🛠️ Langages & Outils :
 
