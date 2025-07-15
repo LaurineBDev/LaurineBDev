@@ -3,7 +3,8 @@
 🌟 Bienvenue sur mon profil GitHub !
 Développeuse passionnée, curieuse et toujours prête à apprendre.
 Je m’intéresse particulièrement au Front-End, à l’IA et à la Cybersécurité 🤖🔐
-![Portfolio](https://portfolio-wine-mu-68.vercel.app/index.html)
+
+[Portfolio](https://portfolio-wine-mu-68.vercel.app/index.html)
 
 # 🚀 À propos de moi :
 
