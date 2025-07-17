@@ -38,4 +38,4 @@ Je renforce mes compétences en Git, SCSS, HTML, CSS
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 
-# 📫 Me contacter : [LinkedIn](https://www.linkedin.com/in/laurine-bouchart-486600341/) | Email : bouchartlaurine7@gmail.com
+# 📫 Me contacter : [LinkedIn](https://www.linkedin.com/in/laurine-bouchart-486600341/) | [Email](bouchartlaurine7@gmail.com)
