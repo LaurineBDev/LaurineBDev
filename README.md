@@ -19,14 +19,16 @@ Fan d’animaux 🐈‍⬛, de patinoire ⛸️ et du monde magique de Harry Pot
 
 🧩 Développeur Intégrateur : projets collaboratifs, maîtrise de Git/GitHub, HTML, CSS, Sass, design responsive.
 
-💻 Actuellement : Développeur Front-End : JavaScript, React, DOM, POO, déploiement (GitHub Pages, Vercel).
+💻 Développeur Front-End : JavaScript, React, DOM, POO, déploiement (GitHub Pages, Vercel).
+
+💻 Actuellement : En recherche de formations/ alternance en Front-end
 
 
 🌱 Ce que j’apprends :
 React, JavaScript, DOM, POO
 Je renforce mes compétences en Git, SCSS, HTML, CSS
 
-# 🚧 En ce moment : création d’un projet pour remplir le portfolio !
+# 🚧 En ce moment : création d’un projet en React et Scss !
 
 # 🛠️ Langages & Outils :
 
