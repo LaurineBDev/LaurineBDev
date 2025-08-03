@@ -4,6 +4,8 @@
 Développeuse passionnée, curieuse et toujours prête à apprendre.
 Je m’intéresse particulièrement au Front-End, à l’IA et à la Cybersécurité 🤖🔐
 
+## 📖 Voici mon portfolio !   
+
 [Portfolio](https://portfolio-wine-mu-68.vercel.app/index.html)
 
 # 🚀 À propos de moi :
@@ -28,7 +30,7 @@ Fan d’animaux 🐈‍⬛, de patinoire ⛸️ et du monde magique de Harry Pot
 React, JavaScript, DOM, POO
 Je renforce mes compétences en Git, SCSS, HTML, CSS
 
-# 🚧 En ce moment : création d’un projet en React et Scss !
+# 🚧 En ce moment : création d’un projet guide sur le monde de Naruto en HTML et CSS !
 
 # 🛠️ Langages & Outils :
 
